@@ -1,0 +1,107 @@
+\contentsline {section}{Introduction}{1}{section*.3}%
+\contentsline {section}{\numberline {1}Logic of propositions and predicates}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Propositional logic}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Predicate logic}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Axiomatic systems and theory of proofs}{5}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Axioms of set theory}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The $\in $-relation}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Zermelo-Fraenkel axioms of set theory}{8}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Classification of sets}{16}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Maps between sets}{16}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Equivalence relations}{19}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Construction of $\mathbb {N}$, $\mathbb {Z}$, $\mathbb {Q}$ and $\mathbb {R}$}{21}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Topological spaces: construction and purpose}{25}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Topological spaces}{25}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Construction of new topologies from given ones}{28}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Convergence}{29}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Continuity}{30}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Topological spaces: some heavily used invariants}{32}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Separation properties}{32}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Compactness and paracompactness}{32}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Connectedness and path-connectedness}{35}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Homotopic curves and the fundamental group}{36}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Topological manifolds and bundles}{40}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Topological manifolds}{40}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Bundles}{41}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Viewing manifolds from atlases}{45}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Differentiable structures: definition and classification}{48}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Adding structure by refining the (maximal) atlas}{48}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Differentiable manifolds}{50}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Classification of differentiable structures}{52}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Tensor space theory I: over a field}{54}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Vector spaces}{54}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Tensors and tensor spaces}{57}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Notational conventions}{62}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Determinants}{65}{subsection.8.4}%
+\contentsline {section}{\numberline {9}Differential structures: the pivotal concept of tangent vector spaces}{69}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Tangent spaces to a manifold}{69}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Algebras and derivations}{71}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}A basis for the tangent space}{74}{subsection.9.3}%
+\contentsline {section}{\numberline {10}Construction of the tangent bundle}{79}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Cotangent spaces and the differential}{79}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Push-forward and pull-back}{81}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Immersions and embeddings}{83}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}The tangent bundle}{85}{subsection.10.4}%
+\contentsline {section}{\numberline {11}Tensor space theory II: over a ring}{87}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Vector fields}{87}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Rings and modules over a ring}{90}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}Bases for modules}{92}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.4}Module constructions and applications}{94}{subsection.11.4}%
+\contentsline {section}{\numberline {12}Grassmann algebra and de Rham cohomology}{98}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Differential forms}{98}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}The Grassmann algebra}{100}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}The exterior derivative}{102}{subsection.12.3}%
+\contentsline {subsection}{\numberline {12.4}de Rham cohomology}{107}{subsection.12.4}%
+\contentsline {section}{\numberline {13}Lie groups and their Lie algebras}{111}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Lie groups}{111}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}The left translation map}{112}{subsection.13.2}%
+\contentsline {subsection}{\numberline {13.3}The Lie algebra of a Lie group}{114}{subsection.13.3}%
+\contentsline {section}{\numberline {14}Classification of Lie algebras and Dynkin diagrams}{118}{section.14}%
+\contentsline {subsection}{\numberline {14.1}Lie algebras}{118}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}The adjoint map and the Killing form}{120}{subsection.14.2}%
+\contentsline {subsection}{\numberline {14.3}The fundamental roots and the Weyl group}{123}{subsection.14.3}%
+\contentsline {subsection}{\numberline {14.4}Dynkin diagrams and the Cartan classification}{126}{subsection.14.4}%
+\contentsline {section}{\numberline {15}The Lie group $\SL (2,\mathbb {C})$ and its Lie algebra $\mathfrak {sl}(2,\mathbb {C})$}{130}{section.15}%
+\contentsline {subsection}{\numberline {15.1}The structure of $\SL (2,\mathbb {C})$}{130}{subsection.15.1}%
+\contentsline {subsection}{\numberline {15.2}The Lie algebra of $\SL (2,\mathbb {C})$}{134}{subsection.15.2}%
+\contentsline {section}{\numberline {16}Dynkin diagrams from Lie algebras, and vice versa}{140}{section.16}%
+\contentsline {subsection}{\numberline {16.1}The simplicity of $\mathfrak {sl}(2,\mathbb {C})$}{140}{subsection.16.1}%
+\contentsline {subsection}{\numberline {16.2}The roots and Dynkin diagram of $\mathfrak {sl}(2,\mathbb {C})$}{142}{subsection.16.2}%
+\contentsline {subsection}{\numberline {16.3}Reconstruction of $A_2$ from its Dynkin diagram}{143}{subsection.16.3}%
+\contentsline {section}{\numberline {17}Representation theory of Lie groups and Lie algebras}{146}{section.17}%
+\contentsline {subsection}{\numberline {17.1}Representations of Lie algebras}{146}{subsection.17.1}%
+\contentsline {subsection}{\numberline {17.2}The Casimir operator}{150}{subsection.17.2}%
+\contentsline {subsection}{\numberline {17.3}Representations of Lie groups}{155}{subsection.17.3}%
+\contentsline {section}{\numberline {18}Reconstruction of a Lie group from its algebra}{158}{section.18}%
+\contentsline {subsection}{\numberline {18.1}Integral curves}{158}{subsection.18.1}%
+\contentsline {subsection}{\numberline {18.2}The exponential map}{158}{subsection.18.2}%
+\contentsline {section}{\numberline {19}Principal fibre bundles}{163}{section.19}%
+\contentsline {subsection}{\numberline {19.1}Lie group actions on a manifold}{163}{subsection.19.1}%
+\contentsline {subsection}{\numberline {19.2}Principal fibre bundles}{167}{subsection.19.2}%
+\contentsline {subsection}{\numberline {19.3}Principal bundle morphisms}{170}{subsection.19.3}%
+\contentsline {section}{\numberline {20}Associated fibre bundles}{175}{section.20}%
+\contentsline {subsection}{\numberline {20.1}Associated fibre bundles}{175}{subsection.20.1}%
+\contentsline {subsection}{\numberline {20.2}Associated bundle morphisms}{177}{subsection.20.2}%
+\contentsline {section}{\numberline {21}Connections and connection 1-forms}{180}{section.21}%
+\contentsline {subsection}{\numberline {21.1}Connections on a principal bundle}{180}{subsection.21.1}%
+\contentsline {subsection}{\numberline {21.2}Connection one-forms}{182}{subsection.21.2}%
+\contentsline {section}{\numberline {22}Local representations of a connection on the base manifold: Yang-Mills fields}{184}{section.22}%
+\contentsline {subsection}{\numberline {22.1}Yang-Mills fields and local representations}{184}{subsection.22.1}%
+\contentsline {subsection}{\numberline {22.2}The Maurer-Cartan form}{186}{subsection.22.2}%
+\contentsline {subsection}{\numberline {22.3}The gauge map}{188}{subsection.22.3}%
+\contentsline {section}{\numberline {23}Parallel transport}{191}{section.23}%
+\contentsline {subsection}{\numberline {23.1}Horizontal lifts to the principal bundle}{191}{subsection.23.1}%
+\contentsline {subsection}{\numberline {23.2}Solution of the horizontal lift ODE by a path-ordered exponential}{193}{subsection.23.2}%
+\contentsline {subsection}{\numberline {23.3}Horizontal lifts to the associated bundle}{195}{subsection.23.3}%
+\contentsline {section}{\numberline {24}Curvature and torsion on principal bundles}{197}{section.24}%
+\contentsline {subsection}{\numberline {24.1}Covariant exterior derivative and curvature}{197}{subsection.24.1}%
+\contentsline {subsection}{\numberline {24.2}Torsion}{200}{subsection.24.2}%
+\contentsline {section}{\numberline {25}Covariant derivatives}{202}{section.25}%
+\contentsline {subsection}{\numberline {25.1}Equivalence of local sections and equivariant functions}{202}{subsection.25.1}%
+\contentsline {subsection}{\numberline {25.2}Linear actions on associated vector fibre bundles}{203}{subsection.25.2}%
+\contentsline {subsection}{\numberline {25.3}Construction of the covariant derivative}{204}{subsection.25.3}%
+\contentsline {section}{\numberline {26}Application: Quantum mechanics on curved spaces}{206}{section.26}%
+\contentsline {section}{\numberline {27}Application: Spin structures}{207}{section.27}%
+\contentsline {section}{\numberline {28}Application: Kinematical and dynamical symmetries}{208}{section.28}%
+\contentsline {section}{Further readings}{209}{section*.25}%
+\contentsline {section}{Alphabetical Index}{212}{section*.35}%
